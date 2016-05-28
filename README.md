@@ -1,4 +1,4 @@
-# design-quotes
+# authify
 
 Sample React app to demonstrate authentication flow using Firebase's own Auth system.
 
